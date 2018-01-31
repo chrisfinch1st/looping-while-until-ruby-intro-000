@@ -5,7 +5,7 @@ def using_until
           levitation_force+=1
 
           puts "Wingardium Leviosa"
-          puts "#{levitation_force}"
+          #puts "#{levitation_force}"
         end
 
 
